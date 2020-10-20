@@ -1,4 +1,6 @@
-# K-Mean-Clustering-Azure-ML-Studio-
+# K-Mean-Clustering-Azure-ML-Studio- 
+Project can be viewed using the link below.
+https://gallery.azure.ai/Experiment/Clustering-Find-similar-companies-76
 
 # 1.	Problem faced by the business
 The business has developed a product which can be used by various companies to ease their work and improve efficiency. Now, they want to know which companies to target so that with their limited marketing resources they could achieve more sales.
